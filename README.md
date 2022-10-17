@@ -13,7 +13,7 @@
 
 ### Pour accéder à l'interface du site:
 
-- Ouvrir le navigateur a l'adresse http://localhost:5500/
+https://zuttokan.github.io/Booki/
 
 ### Identité graphique:
 
@@ -25,8 +25,9 @@
 </ul>
 
 ## Screen version Desktop
+
 ![screencapture-booki desktop](https://user-images.githubusercontent.com/100352779/196151746-94e153c9-2184-4d84-9858-0b7c64b27b46.jpg)
 
 ## Screen version Mobile
-![screencapture-booki mobile](https://user-images.githubusercontent.com/100352779/196153185-6403e7b1-bf5a-4613-8767-1cf6f14098cc.jpg)
 
+![screencapture-booki mobile](https://user-images.githubusercontent.com/100352779/196153185-6403e7b1-bf5a-4613-8767-1cf6f14098cc.jpg)
