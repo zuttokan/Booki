@@ -16,6 +16,10 @@
 
 https://zuttokan.github.io/Booki/
 
+### Compétences évaluées
+- Intégrer du contenu conformément à une maquette
+- Implémenter une interface responsive
+
 ### Identité graphique:
 
 <ul>
