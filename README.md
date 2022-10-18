@@ -14,7 +14,7 @@
 
 ### Pour accéder à l'interface du site:
 
-https://zuttokan.github.io/Booki/
+https://zuttokan.github.io/P2_Booki/
 
 ### Compétences évaluées
 - Intégrer du contenu conformément à une maquette
